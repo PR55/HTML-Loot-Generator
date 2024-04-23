@@ -1,5 +1,5 @@
-import * as GL from "./generationLogic.js"
-import * as DL from "./detailGeneration.js"
+import * as GL from "./assets/js/logic/generationLogic.js"
+import * as DL from "./assets/js/logic/detailGeneration.js"
 import * as fs from 'node:fs'
 import * as readline from 'node:readline'
 import { resolve } from "node:path";
@@ -7,7 +7,7 @@ import { resolve } from "node:path";
 
 const rates = GL.genRanges(GL.retrieveProbability(), GL.genRates);
 
-let arr = GL.genLoot(2, rates) // generate rarties
+let arr = GL.genLoot(6, rates) // generate rarties
 
 let detailArr = [];
 
