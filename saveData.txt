@@ -1,0 +1,13 @@
+[40m--------------------------------------------
+Name: [36mStarfall Core[37m
+Owner: Amanda the Johnson[37m
+Weapon Type: Stave[37m
+Rarity: [36mRare[37m
+Damage: 9[37m
+--------------------------------------------
+Name: [37mChalice Sunderer[37m
+Owner: Amanda the Johnson[37m
+Weapon Type: Great Sword[37m
+Rarity: [37mCommon[37m
+Damage: 33[37m
+--------------------------------------------

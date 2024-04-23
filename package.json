@@ -1,0 +1,12 @@
+{
+  "name": "loot-generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consoleOutput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
